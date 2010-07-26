@@ -1,4 +1,4 @@
-require 'default.rb'
+require 'FlightXML2.rb'
 
 require 'soap/rpc/driver'
 
